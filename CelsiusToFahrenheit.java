@@ -1,4 +1,7 @@
 
+/**
+ * Simple program that converts celsius into fahrenheit
+ */
 public class CelsiusToFahrenheit {
     public static void main(String[] args) {
         double celsius = 25;
